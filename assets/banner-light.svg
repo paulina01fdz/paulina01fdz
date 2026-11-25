@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Paulina Fernández Hernández — Desarrolladora de software</title>
+  <desc id="desc">Banner claro con una interfaz de terminal, una cuadrícula tecnológica y acentos violeta y cian.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fbfaff"/>
+      <stop offset="1" stop-color="#f0efff"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6448d8"/>
+      <stop offset="1" stop-color="#087e89"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#6956c8" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="26" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="26" fill="url(#grid)"/>
+  <circle cx="1070" cy="80" r="155" fill="#7957ff" opacity=".1"/>
+  <circle cx="1055" cy="78" r="102" fill="none" stroke="#7957ff" stroke-opacity=".3"/>
+  <circle cx="1055" cy="78" r="72" fill="none" stroke="#087e89" stroke-opacity=".34" stroke-dasharray="3 8"/>
+  <path d="M0 292C220 257 364 332 556 289s346-47 644 1" fill="none" stroke="url(#accent)" stroke-opacity=".38"/>
+  <rect x="48" y="46" width="60" height="4" rx="2" fill="url(#accent)"/>
+  <text x="48" y="91" fill="#6149c5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" letter-spacing="3">PAULINA FERNÁNDEZ HERNÁNDEZ</text>
+  <text x="46" y="159" fill="#211e33" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="48" font-weight="700" letter-spacing="-1.5">Construyo ideas</text>
+  <text x="46" y="215" fill="#211e33" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="48" font-weight="700" letter-spacing="-1.5">que cobran vida <tspan fill="url(#accent)">en código.</tspan></text>
+  <text x="49" y="257" fill="#514d63" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18">Desarrolladora de software junior · Medellín, Colombia</text>
+  <text x="49" y="296" fill="#726d82" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">WEB DEVELOPMENT  /  LEARNING  /  BUILDING</text>
+  <g transform="translate(755 116)">
+    <rect width="385" height="154" rx="14" fill="#fff" fill-opacity=".95" stroke="#7462c5" stroke-opacity=".4"/>
+    <path d="M0 39h385" stroke="#7462c5" stroke-opacity=".25"/>
+    <circle cx="20" cy="20" r="5" fill="#e45d58"/>
+    <circle cx="38" cy="20" r="5" fill="#d89c1d"/>
+    <circle cx="56" cy="20" r="5" fill="#238b60"/>
+    <text x="23" y="70" fill="#087e89" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">$</text>
+    <text x="43" y="70" fill="#312e40" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">building useful things</text>
+    <text x="23" y="101" fill="#6149c5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">const</text>
+    <text x="77" y="101" fill="#312e40" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">nextStep = "keep learning";</text>
+    <text x="23" y="132" fill="#238b60" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">✓ ready to collaborate</text>
+    <rect x="223" y="119" width="8" height="17" rx="1" fill="#087e89" filter="url(#glow)">
+      <animate attributeName="opacity" values="1;.2;1" dur="1.3s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <circle cx="704" cy="91" r="3" fill="#087e89" filter="url(#glow)"/>
+  <circle cx="1149" cy="293" r="3" fill="#6149c5" filter="url(#glow)"/>
+</svg>
