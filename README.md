@@ -28,7 +28,10 @@ Me interesa el desarrollo full-stack, la calidad de software y convertir problem
 ## Tecnologías
 
 <p align="center">
-  <img src="./assets/tech-stack.svg" alt="Python, Django, JavaScript, TypeScript, HTML5, CSS3, React, Next.js, Node.js, MongoDB y Git" width="100%" style="max-width: 1182px;" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech-stack-dark.svg" />
+    <img src="./assets/tech-stack-light.svg" alt="Python, Django, JavaScript, TypeScript, HTML5, CSS3, React, Next.js, Node.js, MongoDB y Git" width="100%" style="max-width: 1182px;" />
+  </picture>
 </p>
 
 ## Proyectos destacados
