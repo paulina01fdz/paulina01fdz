@@ -30,45 +30,44 @@ Me interesa el desarrollo full-stack, la calidad de software y convertir problem
 **Lenguajes**
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-7957FF?style=for-the-badge&logo=javascript&logoColor=fff" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-7057FF?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-58A6FF?style=for-the-badge&logo=python&logoColor=10121f" alt="Python" />
+  <img src="https://img.shields.io/badge/-A99BFF?style=for-the-badge&logo=html5&logoColor=10121f" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-69E1E8?style=for-the-badge&logo=css&logoColor=10121f" alt="CSS3" />
 </p>
 
 **Frontend**
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=fff" alt="Redux" />
-  <img src="https://img.shields.io/badge/Next.js-111?style=flat-square&logo=next.js&logoColor=fff" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=fff" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Responsive-5B6CFF?style=flat-square" alt="Responsive design" />
+  <img src="https://img.shields.io/badge/-7957FF?style=for-the-badge&logo=react&logoColor=fff" alt="React" />
+  <img src="https://img.shields.io/badge/-7057FF?style=for-the-badge&logo=redux&logoColor=fff" alt="Redux" />
+  <img src="https://img.shields.io/badge/-58A6FF?style=for-the-badge&logo=next.js&logoColor=10121f" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-A99BFF?style=for-the-badge&logo=bootstrap&logoColor=10121f" alt="Bootstrap" />
 </p>
 
 **Backend, datos y calidad**
 
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=fff" alt="Django" />
-  <img src="https://img.shields.io/badge/Django_REST-8B1C1C?style=flat-square&logo=django&logoColor=fff" alt="Django REST Framework" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=fff" alt="NestJS" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=222" alt="Supabase" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=fff" alt="SQL" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=fff" alt="Postman" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=222" alt="Swagger" />
-  <img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=fff" alt="Apache JMeter" />
+  <img src="https://img.shields.io/badge/-7957FF?style=for-the-badge&logo=django&logoColor=fff" alt="Django" />
+  <img src="https://img.shields.io/badge/-7057FF?style=for-the-badge&logo=django&logoColor=fff" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/-58A6FF?style=for-the-badge&logo=nodedotjs&logoColor=10121f" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-A99BFF?style=for-the-badge&logo=nestjs&logoColor=10121f" alt="NestJS" />
+  <img src="https://img.shields.io/badge/-69E1E8?style=for-the-badge&logo=mongodb&logoColor=10121f" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-7957FF?style=for-the-badge&logo=supabase&logoColor=fff" alt="Supabase" />
+  <img src="https://img.shields.io/badge/-7057FF?style=for-the-badge&logo=postgresql&logoColor=fff" alt="SQL" />
+  <img src="https://img.shields.io/badge/-58A6FF?style=for-the-badge&logo=postman&logoColor=10121f" alt="Postman" />
+  <img src="https://img.shields.io/badge/-A99BFF?style=for-the-badge&logo=swagger&logoColor=10121f" alt="Swagger" />
+  <img src="https://img.shields.io/badge/-69E1E8?style=for-the-badge&logo=apachejmeter&logoColor=10121f" alt="Apache JMeter" />
 </p>
 
 **Herramientas**
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=fff" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/Vercel-111?style=flat-square&logo=vercel&logoColor=fff" alt="Vercel" />
+  <img src="https://img.shields.io/badge/-7957FF?style=for-the-badge&logo=git&logoColor=fff" alt="Git" />
+  <img src="https://img.shields.io/badge/-7057FF?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-58A6FF?style=for-the-badge&logo=vscodium&logoColor=10121f" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/-A99BFF?style=for-the-badge&logo=vercel&logoColor=10121f" alt="Vercel" />
 </p>
 
 ## Proyectos destacados
@@ -78,33 +77,32 @@ Me interesa el desarrollo full-stack, la calidad de software y convertir problem
     <td width="50%" valign="top" style="padding: 8px;">
       <strong><a href="https://github.com/paulina01fdz/portfolioBook">Portfolio Book</a></strong><br />
       Portafolio digital interactivo con navegación tipo libro, transiciones 3D y diseño responsive. Construido con Next.js, React, TypeScript y Framer Motion.<br /><br />
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js" alt="Next.js" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" alt="Framer Motion" />
+      <img src="https://img.shields.io/badge/-7957FF?style=for-the-badge&logo=next.js&logoColor=fff" alt="Next.js" />
+      <img src="https://img.shields.io/badge/-7057FF?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/-58A6FF?style=for-the-badge&logo=framer&logoColor=10121f" alt="Framer Motion" />
     </td>
     <td width="50%" valign="top" style="padding: 8px;">
       <strong><a href="https://orbit-aplicacion.vercel.app/">ORBIT · Gestión de proyectos</a></strong><br />
       Aplicación Kanban para organizar proyectos y tareas, con roles, estadísticas y gestión de actividades.<br /><br />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
-      <img src="https://img.shields.io/badge/REST_API-8B1C1C?style=flat" alt="REST API" />
-      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/-7957FF?style=for-the-badge&logo=python&logoColor=fff" alt="Python" />
+      <img src="https://img.shields.io/badge/-7057FF?style=for-the-badge&logo=django&logoColor=fff" alt="Django" />
+      <img src="https://img.shields.io/badge/-58A6FF?style=for-the-badge&logo=supabase&logoColor=10121f" alt="Supabase" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" style="padding: 8px;">
       <strong><a href="https://github.com/paulina01fdz/ALQUIPC-Proyecto">ALQUIPC · Sistema de facturación</a></strong><br />
       Aplicación web para calcular alquileres de equipos, aplicar reglas de negocio y validar los datos de facturación.<br /><br />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/-7957FF?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5" />
+      <img src="https://img.shields.io/badge/-7057FF?style=for-the-badge&logo=css&logoColor=fff" alt="CSS3" />
+      <img src="https://img.shields.io/badge/-58A6FF?style=for-the-badge&logo=javascript&logoColor=10121f" alt="JavaScript" />
     </td>
     <td width="50%" valign="top" style="padding: 8px;">
       <strong><a href="https://github.com/paulina01fdz/mujeresDigitales-PF">Prácticas de frontend</a></strong><br />
       Ejercicios y actividades para practicar fundamentos de desarrollo frontend, estructura web y estilos.<br /><br />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/-7957FF?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5" />
+      <img src="https://img.shields.io/badge/-7057FF?style=for-the-badge&logo=css&logoColor=fff" alt="CSS3" />
+      <img src="https://img.shields.io/badge/-58A6FF?style=for-the-badge&logo=javascript&logoColor=10121f" alt="JavaScript" />
     </td>
   </tr>
 </table>
