@@ -27,47 +27,8 @@ Me interesa el desarrollo full-stack, la calidad de software y convertir problem
 
 ## Tecnologías
 
-**Lenguajes**
-
-<p>
-  <img src="https://img.shields.io/badge/-7957FF?style=for-the-badge&logo=javascript&logoColor=fff" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-7057FF?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-58A6FF?style=for-the-badge&logo=python&logoColor=10121f" alt="Python" />
-  <img src="https://img.shields.io/badge/-A99BFF?style=for-the-badge&logo=html5&logoColor=10121f" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-69E1E8?style=for-the-badge&logo=css&logoColor=10121f" alt="CSS3" />
-</p>
-
-**Frontend**
-
-<p>
-  <img src="https://img.shields.io/badge/-7957FF?style=for-the-badge&logo=react&logoColor=fff" alt="React" />
-  <img src="https://img.shields.io/badge/-7057FF?style=for-the-badge&logo=redux&logoColor=fff" alt="Redux" />
-  <img src="https://img.shields.io/badge/-58A6FF?style=for-the-badge&logo=next.js&logoColor=10121f" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-A99BFF?style=for-the-badge&logo=bootstrap&logoColor=10121f" alt="Bootstrap" />
-</p>
-
-**Backend, datos y calidad**
-
-<p>
-  <img src="https://img.shields.io/badge/-7957FF?style=for-the-badge&logo=django&logoColor=fff" alt="Django" />
-  <img src="https://img.shields.io/badge/-7057FF?style=for-the-badge&logo=django&logoColor=fff" alt="Django REST Framework" />
-  <img src="https://img.shields.io/badge/-58A6FF?style=for-the-badge&logo=nodedotjs&logoColor=10121f" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-A99BFF?style=for-the-badge&logo=nestjs&logoColor=10121f" alt="NestJS" />
-  <img src="https://img.shields.io/badge/-69E1E8?style=for-the-badge&logo=mongodb&logoColor=10121f" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-7957FF?style=for-the-badge&logo=supabase&logoColor=fff" alt="Supabase" />
-  <img src="https://img.shields.io/badge/-7057FF?style=for-the-badge&logo=postgresql&logoColor=fff" alt="SQL" />
-  <img src="https://img.shields.io/badge/-58A6FF?style=for-the-badge&logo=postman&logoColor=10121f" alt="Postman" />
-  <img src="https://img.shields.io/badge/-A99BFF?style=for-the-badge&logo=swagger&logoColor=10121f" alt="Swagger" />
-  <img src="https://img.shields.io/badge/-69E1E8?style=for-the-badge&logo=apachejmeter&logoColor=10121f" alt="Apache JMeter" />
-</p>
-
-**Herramientas**
-
-<p>
-  <img src="https://img.shields.io/badge/-7957FF?style=for-the-badge&logo=git&logoColor=fff" alt="Git" />
-  <img src="https://img.shields.io/badge/-7057FF?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub" />
-  <img src="https://img.shields.io/badge/-58A6FF?style=for-the-badge&logo=vscodium&logoColor=10121f" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/-A99BFF?style=for-the-badge&logo=vercel&logoColor=10121f" alt="Vercel" />
+<p align="center">
+  <img src="./assets/tech-stack.svg" alt="Python, Django, JavaScript, TypeScript, HTML5, CSS3, React, Next.js, Node.js, MongoDB y Git" width="100%" style="max-width: 1182px;" />
 </p>
 
 ## Proyectos destacados
