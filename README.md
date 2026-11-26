@@ -23,7 +23,7 @@
 
 Soy **Paulina Fernández Hernández**, desarrolladora de software junior y estudiante de **Análisis y Desarrollo de Software en el SENA**. Diseño y construyo soluciones web: interfaces responsive, lógica de negocio, APIs, integración de datos y pruebas.
 
-Me interesa el desarrollo full-stack, la calidad de software y convertir problemas cotidianos en experiencias digitales útiles.
+Me interesa el desarrollo backend, la calidad de software y convertir problemas cotidianos en experiencias digitales útiles.
 
 ## Tecnologías
 
